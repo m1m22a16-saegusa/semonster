@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     Monster a = new Monster();
-    System.out.println("Hello SEMonster!!!");
+    System.out.println("SEMONSTER!!!");
     System.out.println(a.toString());
   }
 }
